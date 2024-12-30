@@ -20,5 +20,5 @@ Start the notebook.
 `jupyter lab`
 
 ## Deployment
-todo
+Copy the model.h5 to the server and check it in.
  
