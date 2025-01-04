@@ -10,4 +10,5 @@ pandas==2.2.0
 matplotlib==3.7.5
 seaborn==0.11.2
 jupyterlab==4.2.5
+nbstripout==0.8.1
 
