@@ -4,11 +4,11 @@ AI models for Count Chocolate II.
 ## Local
 Create a virtual environment.
 
-`pyenv virtualenv 3.12.7 venv`
+`pyenv virtualenv 3.12.7 venv-c6-models`
 
 Activate the environment.
 
-`pyenv local venv`
+`pyenv local venv-c6-models`
 
 Install requirements.
 
