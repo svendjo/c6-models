@@ -2,4 +2,7 @@
 .ipynb*
 dataset/images/*.jpg
 .python-version
+*.h5
+*.keras
+*.tflite
 
